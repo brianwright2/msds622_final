@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## MSDS 622 Data Visualization Final
+### Brian Wright
 
-You can use the [editor on GitHub](https://github.com/brianwright2/msds622_final/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository is the home of my final project for the course MSDS-622: Data Visualization. The project consists of choosing a datset and composing several different visualizations regarding the data, culminating in a story explaning an interesting insight developed from the data. The pdf linked [here]['https://github.com/brianwright2/msds622_final/blob/master/final_report.pdf'] contains a writeup containing explanations on the data, all of the visualizations, and the storyline and conclusion. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Links to all datasets used:
+- [Kaggle Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
+- [Austria Wine Import Export Data](https://www.austrianwine.com/press-multimedia/statistics/)
+- [Global Alcohol Consumption over time](https://ourworldindata.org/alcohol-consumption)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brianwright2/msds622_final/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
